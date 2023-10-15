@@ -1,0 +1,17 @@
+.karsilama-baslik{
+    background-color: cornflowerblue;
+    color: aliceblue;
+    margin: 45px;
+    padding: 20px;
+}
+.hr-title{
+    position: absolute;
+    bottom: 160px;
+    left:500px;
+    background: #000;
+    color: #fff;
+}
+.baslik{
+    background: #07098b;
+    color: rgb(131, 25, 57);
+}
