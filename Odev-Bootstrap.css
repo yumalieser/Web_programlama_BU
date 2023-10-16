@@ -1,17 +1,14 @@
-.karsilama-baslik{
-    background-color: cornflowerblue;
-    color: aliceblue;
-    margin: 45px;
-    padding: 20px;
-}
-.hr-title{
-    position: absolute;
-    bottom: 160px;
-    left:500px;
-    background: #000;
-    color: #fff;
+.arkaplan {
+    background-image: linear-gradient(rgb(173, 81, 153), rgb(204, 204, 86));
 }
 .baslik{
-    background: #07098b;
-    color: rgb(131, 25, 57);
+    text-align: center;
+    /*background: #00e3eb;*/
+    color: rgb(255, 255, 255);
+}
+.ortala {
+    text-align:center;
+}
+.yazi-beyaz{  
+    color: rgb(255, 255, 255);
 }
